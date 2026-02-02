@@ -29,7 +29,7 @@ const Footer = () => {
           Forever Yours
         </motion.p>
         <p className="font-body text-sm text-muted-foreground mb-4">
-          Made with love, just for you 💕
+          Made With Love, Just For You 💕
         </p>
         <motion.p 
           className="font-body text-xs text-muted-foreground/70"
@@ -37,7 +37,7 @@ const Footer = () => {
           whileInView={{ opacity: 1 }}
           transition={{ delay: 0.3 }}
         >
-          Made by Aman
+          Made By Mohittt
         </motion.p>
       </motion.div>
     </footer>
